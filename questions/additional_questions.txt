@@ -1,0 +1,5 @@
+What is the geometric interpretation of why ridge and lasso are different? Why does this matter? What happens to the parameters in each case.
+
+Implement Linear Regression (ols; any way you like). Fit random data, and plot your model’s best fit line and dataset.
+
+Would you ever use gradient descent to solve this problem?
