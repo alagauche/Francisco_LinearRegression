@@ -1,5 +1,6 @@
 Name:           Francisco McGee
 Assignment:     Linear Regression
+Git:            https://github.com/alagauche/Francisco_LinearRegression
 
 The only important file for this assignment is the ipython notebook. 
 All responses are in there.
